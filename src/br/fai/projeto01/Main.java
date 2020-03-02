@@ -14,7 +14,12 @@ public class Main {
 		
 		int idade = 0;
 		
-		System.out.println("Aidade é de " + idade + "anos.");
+		System.out.println("Aidade é de " + idade + " anos.");
+		
+		idade +=5;
+		idade *= 2;
+		
+		System.out.println("resultado 1: " + idade);
 		
 	}
 
