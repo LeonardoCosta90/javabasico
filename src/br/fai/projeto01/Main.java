@@ -3,7 +3,6 @@ package br.fai.projeto01;
 public class Main {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		Main app = new Main();
 		
@@ -12,7 +11,10 @@ public class Main {
 	}
 
 	private void start() {
-		// TODO Auto-generated method stub
+		
+		int idade = 0;
+		
+		System.out.println("Aidade é de " + idade + "anos.");
 		
 	}
 
