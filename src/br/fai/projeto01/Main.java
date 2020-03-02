@@ -21,6 +21,9 @@ public class Main {
 		
 		System.out.println("resultado 1: " + idade);
 		
+		idade -=5;
+		
+		System.out.println("resultado 2: " + idade);
 	}
 
 }
